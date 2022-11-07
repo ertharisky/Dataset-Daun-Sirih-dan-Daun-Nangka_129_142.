@@ -5,9 +5,11 @@ Tugas Kelompok oleh Ertha Risky Pratisca_129 dan Anisa Kusumawati_142 mata kulia
 Pengampu : Ir. Galih Wasis Wicaksono, S.kom, M.Cs
 
 
+
 ## Meaning ##
 
 [Python](https://www.python.org/) merupakan sebuah bahasa pemrograman yang digunakan untuk membuat aplikasi, perintah komputer, dan melakukan analisis data. Sebagai general-purpose language, Python bisa digunakan untuk membuat program apa saja dan menyelesaikan berbagai permasalahan. Selain itu, Python juga dinilai mudah untuk dipelajari.
+
 
 
 ## Features ##
@@ -16,8 +18,7 @@ Pengampu : Ir. Galih Wasis Wicaksono, S.kom, M.Cs
 - Agar bisa membedakan daun sirih dan daun nangka.
 
 
-## Installation ##
-Cara mengetahui python sudah terinstal apa belum
+
  
 
 ![Overviewgambar](https://github.com/ertharisky/Dataset-Daun-Sirih-dan-Daun-Nangka_129_142./blob/main/Image/Overview_dataset.jpg?raw=true)
