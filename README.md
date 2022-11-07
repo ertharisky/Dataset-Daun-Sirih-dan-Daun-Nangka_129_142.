@@ -7,6 +7,7 @@ Pengampu : Ir. Galih Wasis Wicaksono, S.kom, M.Cs
 # Meaning
 
 Python merupakan sebuah bahasa pemrograman yang digunakan untuk membuat aplikasi, perintah komputer, dan melakukan analisis data. Sebagai general-purpose language, Python bisa digunakan untuk membuat program apa saja dan menyelesaikan berbagai permasalahan. Selain itu, Python juga dinilai mudah untuk dipelajari.
+![Python](https://www.python.org/about/)
 
 
 # Features
