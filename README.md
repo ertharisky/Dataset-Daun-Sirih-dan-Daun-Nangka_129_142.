@@ -5,6 +5,7 @@ Tugas Kelompok oleh Ertha Risky Pratisca_129 dan Anisa Kusumawati_142 mata kulia
 Pengampu : Ir. Galih Wasis Wicaksono, S.kom, M.Cs
 
 Python
+
 Python merupakan sebuah bahasa pemrograman yang digunakan untuk membuat aplikasi, perintah komputer, dan melakukan analisis data. Sebagai general-purpose language, Python bisa digunakan untuk membuat program apa saja dan menyelesaikan berbagai permasalahan. Selain itu, Python juga dinilai mudah untuk dipelajari.
 
 ![Overviewgambar](https://github.com/ertharisky/Dataset-Daun-Sirih-dan-Daun-Nangka_129_142./blob/main/Image/Overview_dataset.jpg?raw=true)
