@@ -16,7 +16,8 @@ Python merupakan sebuah bahasa pemrograman yang digunakan untuk membuat aplikasi
 - Agar bisa membedakan daun sirih dan daun nangka.
 
 ## Installation ##
- '#' C:\> python --version
- '#' Python 3.8.4
+ `#` C:\> python --version
+ 
+ `#` Python 3.8.4
 
 ![Overviewgambar](https://github.com/ertharisky/Dataset-Daun-Sirih-dan-Daun-Nangka_129_142./blob/main/Image/Overview_dataset.jpg?raw=true)
