@@ -21,9 +21,12 @@ Pengampu : Ir. Galih Wasis Wicaksono, S.kom, M.Cs
 
 ## Installing ##
 
- Silahkan lihat di 
- [penjelasan tentang sintaks markdown](#sintaks-markdown).
+- Buka file install yang sudah di download dari website resmi Python dengan double click
+- Pilih "Install for all users" agar bisa digunakan oleh semua user di komputer atau laptop
+- Konfigurasi Python agar dikenali oleh sistem operasi dengan checklist Add Python 3.8 to PATH atau versi yang kamu install
+- Klik Install Now 
+- Jika instalasi berhasil akan muncul tulisan Setup was Successful
 
  
 
-![Overviewgambar](https://github.com/ertharisky/Dataset-Daun-Sirih-dan-Daun-Nangka_129_142./blob/main/Image/Overview_dataset.jpg?raw=true)
+
