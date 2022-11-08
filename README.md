@@ -19,6 +19,11 @@ Pengampu : Ir. Galih Wasis Wicaksono, S.kom, M.Cs
 
 
 
+## Installing ##
+
+ Silahkan lihat di 
+ [penjelasan tentang sintaks markdown](#sintaks-markdown).
+
  
 
 ![Overviewgambar](https://github.com/ertharisky/Dataset-Daun-Sirih-dan-Daun-Nangka_129_142./blob/main/Image/Overview_dataset.jpg?raw=true)
